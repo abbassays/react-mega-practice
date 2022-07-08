@@ -1,26 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.expense-card{
-    display: flex;
-    justify-content: space-between;
-    width: 90%;
-    align-items: center;
-    margin: 10px auto;
-    box-sizing: border-box;
-    background-color: aqua;
-}
-
-.date{
-    /* margin : 10px;
-    border: 3px solid black;
-    border-radius: 10px;
-    width: 5em;
-    height: 5em;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; 
-    */
-}
